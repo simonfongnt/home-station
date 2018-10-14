@@ -1,0 +1,14 @@
+backup
+commands.txt
+library/endecrytion.py
+*.pyc
+*.mp4
+*.mp3
+*.wma
+*.json
+*.tmp
+*.zip
+*.log
+amine.xlsx
+*.xlsx
+*.crdownload
